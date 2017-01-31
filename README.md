@@ -22,7 +22,7 @@ Open your [Ionic Account](https://apps.ionic.io/). Add your key in the settings.
 ## Code
 
 The code for push notifications resides in the foolowing files:
--./src/app/app.module.ts
--./src/pages/home/home.ts
+- ./src/app/app.module.ts
+- ./src/pages/home/home.ts
 
 Keep Calm and Keep Coding!
