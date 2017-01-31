@@ -1,1 +1,1 @@
-# ionic2-push-notifications
+# Ionic2 Push Notifications
