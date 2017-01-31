@@ -17,7 +17,7 @@ Execute the following command to install the push notification plugin.
 
 ## Send Notification
 
-Open your [Ionic Account](https://apps.ionic.io/). Add your key in the settings. Use the Push option to send the notification.
+Open your [Ionic Account](https://apps.ionic.io/). Add your API keys (Firebase Project's Server Key) under the settings. Use the Push option to send the notification.
 
 ## Code
 
