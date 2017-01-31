@@ -6,14 +6,14 @@ To work with this project just clone the repository or download the zip. Navigat
 - ionic platform add ios (For iOS)
 
 Now generate you app id either by using ionic apps Dashboard or by executing following command:
--ionic io init
+- ionic io init
 
 Now open your Firebase Console, create a project and generate your SENDER ID & SERVER KEY. The SENDER_ID will be needed in your APP while the SERVER_KEY will be required in your app's cloud dashboard.
 
 ## Plugin Installation
 
 Execute the following command to install the push notification plugin.
--cordova plugin add phonegap-plugin-push --variable SENDER_ID=YOUR_SENDER_ID --save
+- cordova plugin add phonegap-plugin-push --variable SENDER_ID=YOUR_SENDER_ID --save
 
 ## Send Notification
 
